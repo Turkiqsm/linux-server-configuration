@@ -7,7 +7,7 @@ this project lets you take a baseline installation of a Linux server and prepare
 
 ## Quick information need it to start
 
-1. Public IP address : ````3.121.185.102````
+1. Public IP address : ````18.194.44.42````
 2. SSH Port : ````2200````
 2. username : grader
 4. URL of Application	````http://ec2-18-194-44-42.eu-central-1.compute.amazonaws.com/````
